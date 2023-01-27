@@ -17,4 +17,4 @@ Check out my gist -> https://gist.github.com/rafinetiz
 
 I made some random stuff..
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinetiz&layout=compact)](https://github.com/rafinetiz/rafinetiz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafinetiz&layout=compact)](https://github.com/rafinetiz)
